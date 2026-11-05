@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-automation-pack-flutter",
+  "capabilityKey": "liberusoftware/module-crm-automation-pack",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_automation_pack_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/crm-automation-pack.md",
+  "presentationPlan": "projects/crm/flutter/crm-automation-pack.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
